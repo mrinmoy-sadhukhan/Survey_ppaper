@@ -50,3 +50,5 @@ Blender: https://www.blender.org/
 |Places 365| https://paperswithcode.com/dataset/places365|
 |Rice Image| https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset|
 |Patch camelyon| https://www.tensorflow.org/datasets/catalog/patch\_camelyon |
+|Calteh-256| https://data.caltech.edu/records/nyy15-4j048|
+
